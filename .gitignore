@@ -1,0 +1,14 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Visual Studio
+.vs/
+
+# Build artifacts
+out/
+cmake-build-debug/
+cmake-build-release/
+cmake-build-relwithdebinfo/
+artifacts/
+build/
